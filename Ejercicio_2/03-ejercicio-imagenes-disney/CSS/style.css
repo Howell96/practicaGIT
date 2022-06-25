@@ -1,0 +1,48 @@
+h1 {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo {
+    text-align: center;
+}
+
+.imgFinal {
+    text-align: center;
+    
+}
+
+.titulo
+{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(192, 84, 151);
+}
+
+h2 {
+    color: rgb(192, 84, 151);
+}
+
+p {
+    color: rgb(60, 99, 174);
+    font-family: 'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80%;
+    border-width: 2px;
+}
+
+.imgPop {
+    float: right;
+}
+
+.imgRes {
+    float: left;
+}
+
+.imgAni {
+    float: right;
+}
+
+div {
+    border-width: 2px;
+    margin: 10px;
+}

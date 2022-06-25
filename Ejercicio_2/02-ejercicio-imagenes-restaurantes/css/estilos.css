@@ -1,0 +1,17 @@
+html {
+    background-color: #289688;
+}
+
+.titulo {
+    color: #fcea3e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imagen {
+    border: 10px solid white;
+    margin: 5px;
+}

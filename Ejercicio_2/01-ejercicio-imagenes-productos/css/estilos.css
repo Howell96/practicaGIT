@@ -1,0 +1,66 @@
+html {
+    background-color: #273238;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #698593;
+    font-size: 60px;
+    background-color: #ffffff;
+    font-weight: 400;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.parrafo {
+    color: #ced8d1;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    text-align: justify;
+}
+
+.subtitulo {
+    font-family: Impact, Charcoal, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.tamanio1 {
+    font-size: 35px;
+}
+
+.tamanio2 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.imagen {
+    border: solid 5px;
+    margin-left: 40px;
+    width: 500px;
+}
+
+.color-aspiradora {
+    color: #e7cdc3;
+    border-color: #e7cdc3;
+}
+
+.color-celular {
+    color: #a1c1cb;
+    border-color: #a1c1cb;
+}
+
+.color-consola {
+    color: #bcbdbf;
+    border-color: #bcbdbf;
+}
+
+.color-home {
+    color: #8d94a1;
+    border-color: #8d94a1;
+}
+
+.color-tele {
+    color: #b1b1a9;
+    border-color: #b1b1a9;
+}
